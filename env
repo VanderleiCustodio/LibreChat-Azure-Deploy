@@ -1,0 +1,42 @@
+[
+  {
+    "name": "DOCKER_REGISTRY_SERVER_PASSWORD",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "DOCKER_REGISTRY_SERVER_URL",
+    "value": "https://index.docker.io",
+    "slotSetting": false
+  },
+  {
+    "name": "DOCKER_REGISTRY_SERVER_USERNAME",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "DOMAIN_SERVER",
+    "value": "https://librechat-prod.azurewebsites.net",
+    "slotSetting": false
+  },
+  {
+    "name": "JWT_SECRET",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "MONGO_URI",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITES_ENABLE_APP_SERVICE_STORAGE",
+    "value": "false",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITES_PORT",
+    "value": "3080",
+    "slotSetting": false
+  }
+]
